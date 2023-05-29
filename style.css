@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(jhe.jpg);
+    width: 50%;
+    height: 50px;
+}
+p{
+    text-decoration-color: white;
+    font-weight: 700;
+    font-size: larger;
+    color: antiquewhite;
+    text-align: center;
+    padding-left: 90%;
+}
